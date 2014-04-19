@@ -12,7 +12,7 @@
 #import "Way.h"
 #import "Relation.h"
 //#import "GeoTools.h"
-#import "spatialite.h"
+#import "../Pods/spatialite/src/headers/spatialite.h"
 
 @interface OSMDAO (privateAPI)
 -(void) initDB;

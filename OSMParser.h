@@ -10,7 +10,7 @@
 #import "Node.h"
 #import "Way.h"
 #import "Relation.h"
-#import "AQXMLParser.h"
+#import <EPubXML/AQXMLParser.h>
 
 /**
  Any delegate object should implement selectors from this protocol to be aware of parsing 
